@@ -15,7 +15,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
   var factory = SplitFactory({
     core: {
-      authorizationKey: '3jueh9a4g1ksklep3f910s131abaj4sfo8mm',
+      authorizationKey: 'your split server-side key',
     }
   })
 
